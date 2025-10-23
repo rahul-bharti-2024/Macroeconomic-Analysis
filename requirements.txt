@@ -8,3 +8,4 @@ fredapi
 tqdm
 jupyter
 jupyterlab 
+python-dotenv
