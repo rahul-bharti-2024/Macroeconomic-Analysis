@@ -5,6 +5,7 @@ __pycache__/
 .venv/
 venv/
 env/
+.env
 .ipynb_checkpoints/
 *.log
 .DS_Store
@@ -18,7 +19,7 @@ dist/
 #Data files
 
 #model arifacts
-*.pkl
+# *.pkl
 
 #output and results
 # results
@@ -28,7 +29,7 @@ dist/
 
 *.code-workspace
 
-*.csv
+# *.csv
 
 #temporary notebooks
 temp_*.ipynb
