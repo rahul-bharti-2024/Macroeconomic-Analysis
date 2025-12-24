@@ -21,10 +21,10 @@ dist/
 *.pkl
 
 #output and results
-results
-output_preprocess
-models
-granger_outputs
+# results
+# output_preprocess
+# models
+# granger_outputs
 
 *.code-workspace
 
